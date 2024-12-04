@@ -1,2 +1,2 @@
-# nebula_command
-Command Extension for FoxServers Nebula
+# nebula_bridge
+Bridge Extension for FoxServers Nebula
